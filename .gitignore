@@ -1,8 +1,6 @@
 /SpringCloud_actuator/target
 /SpringCloud_actuator/*.iml
-
 *.iml
-
 *.class
 **/target/
 /SpringCloud_eurekaClient/*.iml
